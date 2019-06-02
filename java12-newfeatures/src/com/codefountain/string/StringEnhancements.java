@@ -1,5 +1,12 @@
 package com.codefountain.string;
 
+/**
+ * String changes in Java 12. Additon of {@link String#indent(int)}
+ * and {@link String#transform(java.util.function.Function)} methods
+ * 
+ * @author Somnath Musib
+ *
+ */
 public class StringEnhancements {
 	
 	public static void main(String[] args) {
