@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies>
+	<Movie id="1">
+		<Name>Inception</Name>
+		<ReleaseYear>2003</ReleaseYear>
+		<Artists>
+			<Artist id="1">
+				<ArtistName>Leo</ArtistName>
+				<Contact>leo@example.com</Contact>
+			</Artist>
+			<Artist id="2">
+				<ArtistName>John</ArtistName>
+				<Contact>john@example.com</Contact>
+			</Artist>
+		</Artists>
+		<Rating>4</Rating>
+		<Theme>Dream</Theme>
+	</Movie>
+	<Movie id="2">
+		<Name>Chak De India</Name>
+		<ReleaseYear>1998</ReleaseYear>
+		<Artists>
+			<Artist id="1">
+				<ArtistName>Khan</ArtistName>
+				<Contact>khan@example.com</Contact>
+			</Artist>
+			<Artist id="2">
+				<ArtistName>Kabir</ArtistName>
+				<Contact>kabir@example.com</Contact>
+			</Artist>
+		</Artists>
+		<Rating>4</Rating>
+		<Theme>Sport</Theme>
+	</Movie>
+</Movies>
